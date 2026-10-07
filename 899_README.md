@@ -23,7 +23,8 @@ information based on the file `SSDE_readme.md` in this folder.
 
 So one of your first commits should do the following:
 
-1. Rename this file from `README.md` to `old_README.md`.
+1. Delete this file (`README.md`).
+   - Don't worry, there is a copy of it in this folder called `899_README.md`.
 2. Make a copy of `SSDE_readme.md` and name it `README.md`
 
 You can then start editing `README.md` to reflect your project.
